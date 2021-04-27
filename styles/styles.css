@@ -7,7 +7,7 @@
 }
 
 body {
-  background-image: url(/img/background.jpg);
+  background-image: url("https://raw.githubusercontent.com/ArthurGC/card-memory-game/main/img/background.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
